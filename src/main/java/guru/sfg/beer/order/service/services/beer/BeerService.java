@@ -1,6 +1,6 @@
 package guru.sfg.beer.order.service.services.beer;
 
-import guru.sfg.beer.order.service.web.model.BeerDto;
+import sagar.springproject.models.BeerDto;
 
 import java.util.Optional;
 import java.util.UUID;
